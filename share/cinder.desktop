@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Cinder
+GenericName=Shell Editor
+Comment=A black editor for bash and sh
+Exec=/home/andreas/Projects/cinder/cinder %F
+Icon=/home/andreas/Projects/cinder/resources/cinder-512.png
+Terminal=false
+Type=Application
+Categories=Development;TextEditor;
+MimeType=text/x-shellscript;application/x-shellscript;text/x-sh;
+StartupWMClass=cinder
+Keywords=bash;sh;shell;script;editor;debug;

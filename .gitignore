@@ -1,0 +1,12 @@
+build/
+dist/
+*.o
+moc_*
+ui_*
+qrc_*
+*.user
+.qmake.stash
+Makefile
+object_script.*
+.qm
+*.app

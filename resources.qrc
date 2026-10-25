@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="style.qss">resources/cinder.qss</file>
+        <file alias="icon.svg">resources/cinder.svg</file>
+        <file alias="icon-512.png">resources/cinder-512.png</file>
+    </qresource>
+</RCC>
